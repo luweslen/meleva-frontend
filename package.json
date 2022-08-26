@@ -11,6 +11,11 @@
     "lint": "eslint --ext .js,.ts,.vue ./",
     "postinstall": "husky install"
   },
+  "husky": {
+    "hooks": {
+      "pre-push": "yarn lint"
+    }
+  },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
