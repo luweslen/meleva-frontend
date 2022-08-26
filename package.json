@@ -2,7 +2,7 @@
   "name": "meleva-frontend",
   "version": "0.0.1",
   "description": "MeLeva aims to make your trip simpler and cheaper",
-  "productName": "meleva",
+  "productName": "MeLeva",
   "author": "Luciano Weslen <luciano.weslen11@gamail.com>",
   "scripts": {
     "dev": "quasar dev",
