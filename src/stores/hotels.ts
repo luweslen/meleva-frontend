@@ -10,9 +10,10 @@ export const useHotelsStore = defineStore('hotels', {
   getters: {},
   actions: {
     async handleGetHotels(value: string) {
+      this.hotels = [];
       const { data: { hoteisDisponiveis } } = await api.post('get-page', {
         cidadeZipCode: value,
-        tokemAcesso: 'GcFDjISd3bMH6qKnqIdyhGKkLN6q',
+        tokemAcesso: 'MlPR97YVfWsywUGDG6AdApqDDAb6',
         dataInicial: '18/09/2022',
         dataFinal: '20/09/2022',
       });
