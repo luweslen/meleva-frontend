@@ -1,7 +1,7 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
-      MeLeva
+    <q-header class="q-pa-md row justify-center" elevated>
+      <img src="../assets/logo.svg" alt="MeLeva">
     </q-header>
 
     <q-page-container>
