@@ -39,8 +39,8 @@ This project was developed with the following technologies:
 
 Follow the steps below to run this project
 
-- Clone o repository with `git clone https://github.com/luweslen/lapen-app`
-- Go to directory backend with `cd lapen-app`
+- Clone o repository with `git clone https://github.com/luweslen/meleva-frontend`
+- Go to directory backend with `cd meleva-frontend`
 - Install all dependencies with `yarn`
 - Start the dev server with `yarn dev`
 
@@ -58,7 +58,7 @@ Follow the steps below to run this project
 
 ## 📝 **License**
 
-This project is under the MIT license. See the [LICENSE](https://github.com/luweslen/lapen-app/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/luweslen/meleva-frontend/LICENSE) for details.
 
 ## 👨‍💻 **Made by**
 
